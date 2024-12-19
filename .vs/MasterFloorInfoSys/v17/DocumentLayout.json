@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|c:\\users\\gdmit\\desktop\\masterfloorinfosys\\masterfloorinfosys\\productioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\productioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\resourcedictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\resourcedictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\partnerhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\partnerhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\partnerhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\partnerhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\masterfloorinfosys\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{709315F4-6C3E-4F32-BD03-D1D3657A639C}|MasterFloorInfoSys\\MasterFloorInfoSys.csproj|solutionrelative:masterfloorinfosys\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\ResourceDictionary.xaml",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\ResourceDictionary.xaml",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\ResourceDictionary.xaml",
+              "RelativeToolTip": "MasterFloorInfoSys\\ResourceDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T15:04:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\ManagerPage.xaml",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\ManagerPage.xaml",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T14:45:57.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\ManagerPage.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:44:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\AuthPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:43:41.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T09:43:32.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\ProductionCalculator.cs",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\ProductionCalculator.cs",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\ProductionCalculator.cs",
+              "RelativeToolTip": "MasterFloorInfoSys\\ProductionCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:00:56.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPartner.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AddPartner.xaml.cs",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\AddPartner.xaml.cs",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AddPartner.xaml.cs",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\AddPartner.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:47:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPartner.xaml",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AddPartner.xaml",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\AddPartner.xaml",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\AddPartner.xaml",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\AddPartner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T08:47:07.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartnerHistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml.cs",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:50:30.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartnerHistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml",
+              "RelativeDocumentMoniker": "MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml",
+              "ToolTip": "C:\\Users\\gdmit\\Desktop\\MasterFloorInfoSys\\MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml",
+              "RelativeToolTip": "MasterFloorInfoSys\\Pages\\PartnerHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T07:47:33.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿<Page x:Class="MasterFloorInfoSys.Pages.PartnerHistoryPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Title="История реализации">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Text="История реализации продукции" 
+                   FontSize="24" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,10,0,10"/>
+
+        <!-- Комбобокс для выбора партнера -->
+        <ComboBox x:Name="PartnersComboBox" 
+                  Grid.Row="0" 
+                  Margin="10"
+                  DisplayMemberPath="Name" 
+                  SelectedValuePath="ID"
+                  SelectionChanged="PartnersComboBox_SelectionChanged"/>
+
+        <!-- Таблица с историей реализации -->
+        <DataGrid x:Name="dGridSales" Grid.Row="1" ItemsSource="{Binding SalesHistory}" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Наименование продукции" Binding="{Binding ProductName}" Width="*"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" Width="Auto"/>
+                <DataGridTextColumn Header="Дата" Binding="{Binding SaleDate}" Width="Auto"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+    </Grid>
+</Page>
